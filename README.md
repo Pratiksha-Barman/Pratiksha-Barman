@@ -78,7 +78,7 @@ I'm motivated by my passion to create aesthetically pleasing, and functionally e
 
 ## Projects
 #### You can find my works here:
-[![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PratikshaBarman?tab=repositories)
+[![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pratiksha-Barman/PratikshaBarman)
 
 
 ## Connect With Me
