@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Pratiksha Barman
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/af212da4-8588-4d7c-8400-16e56f2746a0" width="600" height="300">
+<img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400">
 <br><br>
 
 
@@ -78,7 +78,7 @@ I'm motivated by my passion to create aesthetically pleasing, and functionally e
 
 ## Projects
 #### You can find my works here:
-[![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pratiksha-Barman/PratikshaBarman)
+[![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pratiksha-Barman?tab=repositories)
 
 
 ## Connect With Me
